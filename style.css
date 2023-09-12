@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    letter-spacing: 2px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: lighter;
+
+    text-decoration: underline;  
+    color: rgb(151, 0, 252); 
+}
+
+h2{
+    text-align: center;
+    color:rgb(211, 4, 4);
+}
+
+p{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-indent: 10px;
+}
+
+img{
+    height: 250px;
+
+    display: inline-block;
+}
